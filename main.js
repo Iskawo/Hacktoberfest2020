@@ -5,7 +5,7 @@ function complete() {
 }
 
 function hacktoberfest(prs) {
-    if (prs > 4) {
+    if (prs => 4) {
         complete();
     }
 }
