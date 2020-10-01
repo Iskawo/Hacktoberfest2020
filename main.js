@@ -1,7 +1,7 @@
 // first line
 
 function complete() {
-    return "Hacktoberfest 2020 completed!
+    return "Hacktoberfest 2020 completed!"
 }
 
 function hacktoberfest(prs) {
@@ -14,6 +14,6 @@ function countprs(prs) {
     if (prs < 4) {
         continue();
     }
-}
+}"
 
 // last line
