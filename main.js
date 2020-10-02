@@ -1,7 +1,7 @@
 // first line
 
 function complete() {
-    return "Hacktoberfest 2020 completed!
+    return "Hacktoberfest 2020 completed!"
 }
 
 function hacktoberfest(prs) {
